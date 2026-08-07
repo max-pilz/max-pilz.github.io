@@ -1,0 +1,3 @@
+quarto pandoc vortraege.tex -o vortraege.html --standalone
+
+quarto pandoc publikationen.md -o publikationen.html --standalone --lua-filter=multiple-bibliographies.lua --citeproc
