@@ -1,7 +1,7 @@
 ---
 title: "Publikationsliste"
 author: "Dr. Maximilian Pilz"
-date: "07.08.2026"
+date: "12.10.2026"
 nocite: '@*'
 erst-bibliography: erst.bib
 letzt-bibliography: letzt.bib
